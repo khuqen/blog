@@ -1,6 +1,6 @@
 module.exports = {
     // 网站 Title
-    title: 'Khuqen',
+    title: 'Khuqen\'s 小站',
   
     // 网站描述
     description: 'This is khuqen\' blog',
@@ -26,7 +26,7 @@ module.exports = {
         nickname: 'Khuqen',
   
         // 个人简介
-        description: 'Happy Coding<br/>Happy Life',
+        description: 'No stupid head, only lazy hands',
   
         // 电子邮箱
         email: '316294622@qq.com',
