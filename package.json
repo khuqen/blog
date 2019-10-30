@@ -4,8 +4,8 @@
   "description": "My Blog",
   "main": "index.js",
   "dependencies": {
-    "vuepress": "^1.0.0-alpha.48",
-    "vuepress-theme-meteorlxy": "^1.0.0-alpha.38"
+    "vuepress": "^1.2.0",
+    "vuepress-theme-meteorlxy": "^1.6.0"
   },
   "devDependencies": {},
   "scripts": {

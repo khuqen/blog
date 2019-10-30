@@ -128,7 +128,7 @@ module.exports = {
       ],
   
       // 评论配置，参考下方 [页面评论] 章节
-      comments: {
+       comments: {
         owner: 'khuqen',
         repo: 'blog',
         clientId: 'f1529cce9e61396e2443',
