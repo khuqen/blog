@@ -4,6 +4,7 @@ module.exports = {
   
     // 网站描述
     description: 'This is khuqen\' blog',
+
   
     // 网站语言
     locales: {
@@ -12,9 +13,13 @@ module.exports = {
       },
     },
   
+    plugins: [
+      'latex' // or 'vuepress-plugin-latex'
+    ],
+    
     // 使用的主题
     theme: 'meteorlxy',
-  
+
     // 主题配置
     themeConfig: {
       // 主题语言，参考下方 [主题语言] 章节
