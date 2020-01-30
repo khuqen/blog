@@ -1,7 +1,7 @@
 ---
 category: Machine learning
 tags:
-  - Hands-on Machine learning
+  - Hands-on ML
 date: 2020-01-28
 title: The Machine Learning Landscape
 vssue-title: The Machine Learning Landscape
