@@ -13,7 +13,6 @@ vssue-title: End-to-End Machine Learning Project
 # End-to-End Machine Learning Project
 
 
-
 ## Look at the Big Picture
 
 The first task is to build a model of housing prices in California using the California census data. The model should learn from this data and be able to predict the median housing price in any district, given all the other metrics.
