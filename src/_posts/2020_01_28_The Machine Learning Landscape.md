@@ -1,5 +1,5 @@
 ---
-category: Machine learning
+category: 机器学习
 tags:
   - Hands-on ML
 date: 2020-01-28
